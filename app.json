@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "claremont-mosque-native",
+    "slug": "claremont-mosque-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "claremont-mosque-native"
+}
